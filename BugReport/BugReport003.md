@@ -1,4 +1,4 @@
-Reporter's Name|Torneukari Eyitweremi                                                                              |Category    |Label             |Value                                                                            |Category    |Label             |Value                                                                                                                                |
+|Category    |Label             |Value                                                                                                                                |
 |------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |Bug ID      |Bud ID Number     |#003                                                                                                                                 |
 |            |Reporter's Name   |Torneukari Eyitweremi                                                                                                                |
@@ -15,4 +15,3 @@ Reporter's Name|Torneukari Eyitweremi                                           
 |            |Actual Result     |Gallery displays unrelated images and multiple dulicated images of the Monalisa, fire and alliens                                    |
 |Bug Tracking|Severity          |High (                                                                                                                               |
 |            |Priority          |Low                                                                                                                                  |
-                                                  
