@@ -24,7 +24,7 @@ Each feature is tested for expected functionality, edge cases, and error handlin
 
 ## 💡 Notes
 
-This is a manual testing practice project created as part of my journey to become a QA Software Tester. More features and updates will be added as I continue learning.
+This is a manual testing practice project created as part of my journey to becoming a QA Software Tester. More features and updates will be added as I progress.
 
 ---
 
