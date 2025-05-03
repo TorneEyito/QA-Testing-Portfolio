@@ -4,6 +4,7 @@ What is inside
 
 TestScenarios/     → Module-based test scenario descriptions TestCases/         → Documented manual test cases with status tracking
 BugReports/        → Individual bug reports with clear reproduction steps
+
 README.md            → Overview of the project (this file)
 
 Documents Overview
